@@ -1,4 +1,4 @@
-# Udemy Python - Django Web & Rest
-Udemy - Curso de Django Web Framework e Django Rest Framework <br><br>
+# Udemy Python - Django Web Framework & Django Rest Framework
+<br><br>
 
-[Link do curso](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)
+[Link do curso](https://www.udemy.com/course/curso-de-django-web-framework-com-python-html-e-css/)
